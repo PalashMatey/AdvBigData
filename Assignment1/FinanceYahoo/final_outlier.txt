@@ -1,0 +1,15 @@
+For company : apple
+Outliers are :
+[]
+For company : facebook
+Outliers are :
+[103.87]
+For company : google
+Outliers are :
+[]
+For company : ibm
+Outliers are :
+[]
+For company : walmart
+Outliers are :
+[]
