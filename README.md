@@ -15,7 +15,8 @@ Assignment 1 :
 
 
 Assignment 2 : 
-	The main objective of this assignment was to perform predictive 
+		The main objective of this assignment was to perform 
+predictive 
 analysis of the stock at a particular time. Used a combination of 
 historical data from Yahoo Finance and minute data from Google finance 
 to arrive at a prediction.
